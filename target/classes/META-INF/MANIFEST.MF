@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: macintosh
+Build-Jdk: 11.0.10
+Implementation-Title: tsbb-sfg-brewery
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: guru.springframework.brewery
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-boot
+ -starter-parent/tsbb-sfg-brewery
+Created-By: Maven Integration for Eclipse
+
